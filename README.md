@@ -1,7 +1,7 @@
 
 # MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models
 
-[**🌐 Homepage**](https://mragbench.github.io/) | [**🤗 Dataset**](https://huggingface.co/datasets/uclanlp/MRAG-Bench) | [**📖 Paper**](https://arxiv.org/abs/) | [**💻 Evaluation**](https://github.com/mragbench/MRAG-Bench) 
+[**🌐 Homepage**](https://mragbench.github.io/) | [**🤗 Dataset**](https://huggingface.co/datasets/uclanlp/MRAG-Bench) | [**📖 Paper**](https://arxiv.org/abs/2410.08182) | [**💻 Evaluation**](https://github.com/mragbench/MRAG-Bench) 
 
 
 
@@ -58,7 +58,7 @@ For most models, our [automatic](eval/utils/automatic_extract.py) pipeline can h
 @article{hu2024mragbench,
   title={MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models},
   author={Hu, Wenbo and Gu, Jia-Chen and Dou, Zi-Yi and Fayyaz, Mohsen and Lu, Pan and Chang, Kai-Wei and Peng, Nanyun},
-  journal={arXiv preprint arXiv:24},
+  journal={arXiv preprint arXiv:2410.08182},
   year={2024}
 }
 ```
