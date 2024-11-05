@@ -7,7 +7,8 @@
 
 ## News
 
-* 🔥 Todo: Coming, integrate MRAG-Bench to [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) and [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), enabling rapid evaluation on Large Vision Language Models.
+* Todo: Coming, integrate MRAG-Bench to [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) and [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), enabling rapid evaluation on Large Vision Language Models.
+* [2024-11-05] As many people requesting, we release the image corpus [here](https://drive.google.com/file/d/1atwkNXH3aEtCLuqimZoB1Mifj5CwL3CL/view?usp=sharing) for retrieval.
 * 🔥 [2024-10-10] MRAG-Bench evaluation code is released.
 * 🔥 [2024-10-10] MRAG-Bench is released.
 
